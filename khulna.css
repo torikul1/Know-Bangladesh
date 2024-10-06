@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(205, 205, 209);
+    margin: 4em;
+}
+.dh :hover{
+    background-color: brown;
+}
+.dh a {
+    size: 600px;
+             
+              color: rgb(237, 241, 233);
+              background-color: rgb(12, 12, 11);             
+              border-radius: 15px;
+              text-decoration: none;       
+              padding: 10px;
+              margin: 1em;
+}
+
+
+
+.khulna{
+    text-align: center;
+    font-size: 500%;
+}
+.map{
+    padding-left: 4em;
+    border-radius: 20px 20px 20px 20px;
+}
+.da{
+    font-size: xx-large;
+    text-align: justify;
+}
+.dls{
+    font-size:x-large;
+}

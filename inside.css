@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(205, 205, 209);
+}
+.home :hover{
+    background-color: brown;
+}
+.home a {
+    size: 600px;
+             
+              color: rgb(237, 241, 233);
+              background-color: rgb(12, 12, 11);             
+              border-radius: 15px;
+              text-decoration: none;       
+              padding: 10px;
+              margin: 3em;
+}
+.img{
+    padding: 1.5em;
+    border-radius: 50px;
+}
+    
+.bd{
+   
+    font-size: 500%;
+    text-align: center;
+}
+.sh{
+    color: darkblue;
+    font-size: 300%;
+    margin: 1.5em;
+
+}
+.shp{
+    font-size: x-large;
+    margin: 3em;
+    text-decoration: none;
+    text-align: justify;
+    
+}
+.divi{
+    background-color: darkgrey;
+    margin: 2em;
+    font-size: 250%;
+    padding: .5em;
+    border-radius: 20px;
+}
+.dv_list{
+    margin: 2.5em;
+    font-size: x-large;
+    padding:10px 15px;
+    
+}
+.oli{
+    text-decoration: none;
+}
